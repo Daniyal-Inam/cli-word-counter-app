@@ -1,6 +1,6 @@
 {
   "name": "dani786-cli-word-counter-app",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "This is cli based word counter app, The user will enter a English paragraph and all that is needed is to just to implement counting characters and words without whitespaces.",
   "main": "index.js",
   "type": "module",
